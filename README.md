@@ -21,7 +21,6 @@ I'm a passionate backend developer, exploring the world of Node.js, Express.js, 
 - [LinkedIn](https://www.linkedin.com/in/gursharan-singh-mern-developer/)
 - Email: gs7217013@gmail.com
 
-![Code GIF](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
 
 > "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler
 
