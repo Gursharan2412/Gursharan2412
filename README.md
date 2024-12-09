@@ -23,6 +23,9 @@ I'm a passionate backend developer, exploring the world of Node.js, Express.js, 
 
 
 > "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler
+> ![Gursharan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gursharan2412&show_icons=true&theme=radical)
+> [![GitHub Streak](https://streak-stats.demolab.com/?user=Gursharan2412&theme=radical)](https://git.io/streak-stats)
+
 
 
 
