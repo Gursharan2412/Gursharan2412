@@ -16,7 +16,7 @@ I'm a passionate backend developer, exploring the world of Node.js, Express.js, 
 ### 🛠️ Recent Projects
 - [MongoDB CRUD Project](https://github.com/Gursharan2412/mongodb-crud-project): A full-stack application with CRUD functionality using MongoDB.
 - [File-System Node Project](https://github.com/Gursharan2412/file-system-node-project): Backend project using Node.js file system.
-- [Scatch E-comm Backend Project](https://github.com/Gursharan2412/backend-ejs-project)
+- [Scatch E-comm Backend Project](https://github.com/Gursharan2412/backend-ejs-project): A full-stack E-comm application using Node.js, Express.js, Mongodb, EJS rendring, Postman.
 ### 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/gursharan-singh-mern-developer/)
 - Email: gs7217013@gmail.com
