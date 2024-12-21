@@ -2,7 +2,7 @@
 
 I'm a passionate backend developer, exploring the world of Node.js, Express.js, and MongoDB. I love learning new technologies and building impactful projects.
 
-- 🔭 Currently working on: [MongoDB CRUD Project](https://github.com/Gursharan2412/mongodb-crud-project)
+- 🔭 Currently working on: [Scatch Backend Project](https://github.com/Gursharan2412/backend-ejs-project)
 - 🌱 Learning: Advanced Express.js, MongoDb and Git
 - ⚡ Fun fact: I can debug code faster than I can solve a Rubik's cube! 😄
 
