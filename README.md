@@ -29,6 +29,10 @@ I'm a passionate backend developer, exploring the world of Node.js, Express.js, 
 
 > [![GitHub Streak](https://streak-stats.demolab.com/?user=Gursharan2412&theme=radical)](https://git.io/streak-stats)
 
+> ## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Gursharan2412&theme=radical&no-frame=true&margin-w=15)
+
+
 
 
 
